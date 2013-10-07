@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Tech Support | CUEWB's Bacon Pile]]></title>
   <link href="http://cuewb-ghana.github.io/blog/categories/tech-support/atom.xml" rel="self"/>
   <link href="http://cuewb-ghana.github.io/"/>
-  <updated>2013-10-07T09:30:10-04:00</updated>
+  <updated>2013-10-07T11:08:49-04:00</updated>
   <id>http://cuewb-ghana.github.io/</id>
   <author>
     <name><![CDATA[CUEWB Ghana]]></name>
@@ -223,135 +223,6 @@ No language indicated, so no syntax highlighting in Markdown Here (varies on Git
 But let's throw in a &lt;b&gt;tag&lt;/b&gt;.
 </code></p>
 
-<p>(Github Wiki pages don&rsquo;t seem to support syntax highlighting, so the above won&rsquo;t be colourful (the strings are not red, for example). Try it out in a <em>Markdown Here</em> email or a Github Markdown README or Github Issue &mdash; you can preview a new Issue without submitting it.)</p>
-
-<p>Again, to see what languages are available for highlighting, and how to write those language names, see the <a href="http://softwaremaniacs.org/media/soft/highlight/test.html">highlight.js demo page</a>.</p>
-
-<h2>Tables</h2>
-
-<p>Tables aren&rsquo;t part of the core Markdown spec, but they are part of GFM and <em>Markdown Here</em> supports them. They are an easy way of adding tables to your email &mdash; a task that would otherwise require copy-pasting from another application.</p>
-
-<p>```
-Colons can be used to align columns.</p>
-
-<table>
-<thead>
-<tr>
-<th></th>
-<th> Tables        </th>
-<th align="center"> Are           </th>
-<th align="right"> Cool  </th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td></td>
-<td> col 3 is      </td>
-<td align="center"> right-aligned </td>
-<td align="right"> $1600 |</td>
-</tr>
-<tr>
-<td></td>
-<td> col 2 is      </td>
-<td align="center"> centered      </td>
-<td align="right">   $12 |</td>
-</tr>
-<tr>
-<td></td>
-<td> zebra stripes </td>
-<td align="center"> are neat      </td>
-<td align="right">    $1 |</td>
-</tr>
-</tbody>
-</table>
-
-
-<p>The outer pipes (|) are optional, and you don&rsquo;t need to make the raw Markdown line up prettily. You can also use inline Markdown.</p>
-
-<table>
-<thead>
-<tr>
-<th>Markdown </th>
-<th> Less </th>
-<th> Pretty</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td><em>Still</em> </td>
-<td> <code>renders</code> </td>
-<td> <strong>nicely</strong></td>
-</tr>
-<tr>
-<td>1 </td>
-<td> 2 </td>
-<td> 3</td>
-</tr>
-</tbody>
-</table>
-
-
-<p>```</p>
-
-<p>Colons can be used to align columns.</p>
-
-<table>
-<thead>
-<tr>
-<th></th>
-<th> Tables        </th>
-<th align="center"> Are           </th>
-<th align="right"> Cool </th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td></td>
-<td> col 3 is      </td>
-<td align="center"> right-aligned </td>
-<td align="right"> $1600 |</td>
-</tr>
-<tr>
-<td></td>
-<td> col 2 is      </td>
-<td align="center"> centered      </td>
-<td align="right">   $12 |</td>
-</tr>
-<tr>
-<td></td>
-<td> zebra stripes </td>
-<td align="center"> are neat      </td>
-<td align="right">    $1 |</td>
-</tr>
-</tbody>
-</table>
-
-
-<p>The outer pipes (|) are optional, and you don&rsquo;t need to make the raw Markdown line up prettily. You can also use inline Markdown.</p>
-
-<table>
-<thead>
-<tr>
-<th>Markdown </th>
-<th> Less </th>
-<th> Pretty</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td><em>Still</em> </td>
-<td> <code>renders</code> </td>
-<td> <strong>nicely</strong></td>
-</tr>
-<tr>
-<td>1 </td>
-<td> 2 </td>
-<td> 3</td>
-</tr>
-</tbody>
-</table>
-
-
 <h2>Blockquotes</h2>
 
 <p>```</p>
@@ -511,8 +382,8 @@ You&rsquo;ll be likely better off passing us your article and letting us do the 
 
 <p>We&rsquo;ll start by making a copy of Octopress. If you&rsquo;re a command-line addict, run:
 <code>bash
-git clone git://github.com/cuewb-ghana.github.io.git OEKR
-cd OEKR
+git clone git://github.com/cuewb-ghana.github.io.git cuewb-ghana.github.io
+cd cuewb-ghana.github.io
 bundle install
 </code>
 in a directory of your choice.</p>

@@ -33,8 +33,8 @@ You'll be likely better off passing us your article and letting us do the heavy-
 ## Step 2: Cloning Octopress
 We'll start by making a copy of Octopress. If you're a command-line addict, run:
 ``` bash
-git clone git://github.com/cuewb-ghana.github.io.git OEKR
-cd OEKR
+git clone git://github.com/cuewb-ghana.github.io.git cuewb-ghana.github.io
+cd cuewb-ghana.github.io
 bundle install
 ```
 in a directory of your choice. 

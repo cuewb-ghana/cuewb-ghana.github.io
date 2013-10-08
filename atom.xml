@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[CUEWB's Bacon Stack]]></title>
+  <title><![CDATA[CUEWB Knowledge Repository]]></title>
   <link href="http://cuewb-ghana.github.io/atom.xml" rel="self"/>
   <link href="http://cuewb-ghana.github.io/"/>
-  <updated>2013-10-07T12:35:04-04:00</updated>
+  <updated>2013-10-08T02:17:35-04:00</updated>
   <id>http://cuewb-ghana.github.io/</id>
   <author>
     <name><![CDATA[CUEWB Ghana]]></name>

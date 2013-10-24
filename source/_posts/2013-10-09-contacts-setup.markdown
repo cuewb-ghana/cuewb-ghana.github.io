@@ -22,9 +22,9 @@ Whatever changes you make to this address book will be synced for everyone. Yes,
 2. Click Contacts at the top of the screen and then Preferences.
 3. Open the Accounts tab and click +.
 4. Fill out your account information in the following fields:
-	- Account type: CardDAV
-	- User name: Enter your full Google Account email address
-	- Password: Your Google Account password
+	- Name: Enter the EWB Ghana account name: CUEWB-Ghana
+	- User Name: `cuewb.ghana.contacts@gmail.com`
+	- Password: Enter the group password. Request it from you know who.
 	- Server address: google.com
 6. Uncheck all of the options in "Also Setup"
 	- That means uncheck Mail, Reminders etc.
@@ -54,8 +54,8 @@ Unfortunately, you won't be able to get live updates for the Address Book system
 3. Select Add Account.
 4. Select Google.
 5. Fill out your account information in the following fields:
-	- Name: Enter your name
-	- User Name: Enter your full Google Account email address
+	- Name: Enter the EWB Ghana account name: CUEWB-Ghana
+	- User Name: `cuewb.ghana.contacts@gmail.com`
 	- Password: Your Google Acccount password
 	- Description: Enter a description of the account (e.g. CUEWB-Ghana).
 6. Select Next at the top of your screen.
@@ -71,8 +71,8 @@ Unfortunately, you won't be able to get live updates for the Address Book system
 4. Select Other.
 5. Select Add CardDAV Account.
 6. Fill out your account information in the following fields:
-	- Name: Enter your name
-	- User Name: Enter your full Google Account email address
+	- Name: Enter the EWB Ghana account name: CUEWB-Ghana
+	- User Name: `cuewb.ghana.contacts@gmail.com`
 	- Password: Your Google Acccount password
 	- Description: Enter a description of the account (e.g. CUEWB-Ghana).
 7. Select Next at the top of your screen.
